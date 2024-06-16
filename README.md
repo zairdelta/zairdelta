@@ -1,6 +1,1 @@
-<div align="center" background-color="white">
-  <h1 color="red">
-    Hola
-  </h1>
-</div>
-<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playwrite+SK&size=30&pause=1000&color=4EF717&center=true&vCenter=true&repeat=false&random=false&width=500&height=100&lines=Hi+I+am+fullStack+developer)](https://git.io/typing-svg)
