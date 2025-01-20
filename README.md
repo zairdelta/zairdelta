@@ -98,6 +98,103 @@
 </span>
 &nbsp;
 
+## 🔥 Technologies:
+
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
+&nbsp;
+<span>
+  <a href="#" onclick="return false;">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Redis logo" title="Redis" height="25" />
+  </a>
+</span>
 
 
 ## <summary><b>💻 GitHub Profile Stats</b></summary>
