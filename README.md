@@ -3,22 +3,30 @@
 <h3 align="center">I am passionate about IT | I am a Web Developer.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zairdelta&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-<table align="center" style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <!-- Columna de texto -->
-    <td style="width: 50%; vertical-align: top; padding: 10px; text-align: left;">
-      - 🌱 I’m currently learning **Ruby on Rails** <br>
-      - 🧑‍🎓 I am a graduate of the **Technological University of Torreon** <br>
-      - 💬 Ask me about **Web development** <br>
-      - 📫 How to reach me **zairortiz99@gmail.com** <br>
-      - ⚡ I am especially passionate about the **JavaScript language**
-    </td>
-    <!-- Columna de imagen -->
-    <td style="width: 50%; text-align: center; padding: 10px;">
-      <img alt="Coding" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" style="max-width: 100%; height: auto;">
-    </td>
-  </tr>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **Ruby on Rails**
+
+- 🧑‍🎓 I am a graduate of the **Technological University of Torreon**
+
+- 💬 Ask me about **Web development**
+
+- 📫 How to reach me **zairortiz99@gmail.com**
+  
+- ⚡ I am especially passionate about the **JavaScript language**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
 </table>
+
 
 
 
